@@ -1,7 +1,6 @@
 # 🚀 OmniCTF
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OmniCTF/OmniCTF)
-![GitHub contributors](https://img.shields.io/github/contributors/OmniCTF/OmniCTF)
 ![GitHub stars](https://img.shields.io/github/stars/OmniCTF/OmniCTF?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/OmniCTF/OmniCTF?style=social)
 
