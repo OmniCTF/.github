@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Competitions%20Only-00d18f" />
-  <img src="https://img.shields.io/badge/Scope-No%20Public%20Challenges-6e56cf" />
   <img src="https://img.shields.io/badge/Status-Active-0ea5e9" />
 </p>
 
