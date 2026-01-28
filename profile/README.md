@@ -53,14 +53,8 @@ Interested in sponsoring? Contact us @ sponsors@omnictf.com.
 
 ## ❓ FAQ
 
-**Q: Why keep challenges private?**  
-A: We reuse and evolve content. Public source would dilute fairness and future event quality.
-
-**Q: Can I practice on past challenges?**  
-A: We occasionally release **sanitized** replicas or demos after a deprecation window. Watch this space, but assume **no public drop** by default.
-
 **Q: Can I use AI during the event?**  
-A: Yes—for research and brainstorming. You must not paste or share live challenge content publicly during the event.
+A: Yes-for research and brainstorming. You must not paste or share live challenge content publicly during the event.
 
 ---
 
@@ -70,8 +64,8 @@ A: Yes—for research and brainstorming. You must not paste or share live challe
 - Email: `sponsors@omnictf.com` (sponsorship requests)
 - Email: `team@omnictf.com` (team)
 - Social: `@OmniCYBR`  
-- Location: Romania — Constanța (primary on‑site venue)
+- Location: Romania - Constanța (primary on‑site venue) and Remote
 
 ---
 
-<p align="center"><i>OmniCTF — Competition first. Integrity always.</i></p>
+<p align="center"><i>OmniCTF - Competition first. Integrity always.</i></p>
