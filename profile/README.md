@@ -67,7 +67,7 @@ A: Yes—for research and brainstorming. You must not paste or share live challe
 ## 📡 Contact
 
 - Email: `support@omnictf.com` (support)
-- Email: `support@omnictf.com` (sponsorship requests)
+- Email: `sponsors@omnictf.com` (sponsorship requests)
 - Email: `team@omnictf.com` (team)
 - Social: `@OmniCYBR`  
 - Location: Romania — Constanța (primary on‑site venue)
