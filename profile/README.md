@@ -1,71 +1,38 @@
-# 🔒 OmniCTF — Competitive Cybersecurity Events
+# OmniCTF
+
+**OmniCTF** is a cybersecurity competition initiative organized by [OmniCYBR](https://omnictf.com), hosting online and on-site Capture The Flag (CTF) events for students and cybersecurity enthusiasts worldwide.
+
+We bring together hackers, researchers, and learners to compete, develop their skills, and connect with the cybersecurity community.
+
+**[Website](https://omnictf.com) | [CTFTime](https://ctftime.org/event/3104) | [Contact](mailto:team@omnictf.com)**
+
+---
+
+## Competitions
+
+- **Online Qualifiers** — Open to participants worldwide.
+- **On-Site Finals** — Hosted in Constanța, Romania.
+- **Challenges** — Web, Pwn, Crypto, Reverse Engineering, Forensics, and more.
+
+## Sponsors & Partners
+
+Our competitions are made possible by organizations supporting cybersecurity education and the next generation of security researchers.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Competitions%20Only-00d18f" />
-  <img src="https://img.shields.io/badge/Status-Active-0ea5e9" />
+  <!-- Add sponsor logos here -->
 </p>
 
-> **OmniCTF** is a competition-first initiative. We run on-site and online CTF events, publish schedules, rules, results, and media kits, maybe even challenges.
----
+Interested in sponsoring OmniCTF? Contact us at **[sponsors@omnictf.com](mailto:sponsors@omnictf.com)**.
 
-## 🎯 Mission
+## Contact
 
-Train and spotlight the next wave of defenders and breakers through **fair, well‑run competitions** that feel close to real incidents, minus the collateral. Learn fast, compete hard, respect the rules.
-
-**Operate → Detect → Exploit → Report.**
-**Hack everything (in-scope). Break nothing (out-of-scope).**
-
----
-
-## 🏁 Divisions & Eligibility
-
-- **Divisions:** Middle School • High School • University (≤ 25 years)  
-- **Format:** Individual play (no team collab) as of 2025.  
-- **Venue:** On‑site (Romania, Constanța) as of 2025.  
-- **Flag format:** `CTF{...}` unless an event states otherwise.
+- **Website:** https://omnictf.com
+- **General:** team@omnictf.com
+- **Sponsorships:** sponsors@omnictf.com
+- **Location:** Constanța, Romania
 
 ---
 
-## 📜 Rules (short version)
-
-- **Solo only.** No sharing flags, hints, or solutions during the event.  
-- **Allowed:** Google, docs, local tooling, **AI assistants** for research/ideation.  
-- **Not allowed:** Backchannel comms (Discord/WhatsApp/DMs) about live tasks.  
-- **Scope only:** Do not scan/attack infra outside provided endpoints.  
-- **Good faith:** Report platform bugs via `SECURITY.md` channels.  
-- **Writeups:** Respect embargo windows if specified by the event.
-
----
-
-## 🏆 Results & Recognition
-
-- Public final standings and select stats are posted on CTFTime.  
-- Top writeups may be featured (with consent).  
-
----
-
-## 🤝 Sponsors & Partners
-
-We acknowledge sponsors on a per‑event basis inside https://omnictf.com/ .  
-Interested in sponsoring? Contact us @ sponsors@omnictf.com.
-
----
-
-## ❓ FAQ
-
-**Q: Can I use AI during the event?**  
-A: Yes-for research and brainstorming. You must not paste or share live challenge content publicly during the event.
-
----
-
-## 📡 Contact
-
-- Email: `support@omnictf.com` (support)
-- Email: `sponsors@omnictf.com` (sponsorship requests)
-- Email: `team@omnictf.com` (team)
-- Social: `@OmniCYBR`  
-- Location: Romania - Constanța (primary on‑site venue) and Remote
-
----
-
-<p align="center"><i>OmniCTF - Competition first. Integrity always.</i></p>
+<p align="center">
+  <b>OmniCTF — Hack. Learn. Compete.</b>
+</p>
